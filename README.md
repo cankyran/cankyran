@@ -9,7 +9,7 @@ I read movement clinically; I'm learning to measure it computationally.
 - 🐍 Currently learning: Python, ML fundamentals, pose estimation (MediaPipe)
 - 🎯 Building toward: movement-quality analysis, ROM tracking, rehab analytics
 
-#### Engineering foundation (C)
+#### Coding foundation (C)
 Built from scratch — proof of low-level fundamentals, not tutorial-following:
 
 | Project | What it demonstrates |
